@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/gnananawin/react_tic-tac-toe/static/css/main.7b009a26.css",
-    "main.js": "/gnananawin/react_tic-tac-toe/static/js/main.430b8c59.js",
-    "static/js/453.6838bd37.chunk.js": "/gnananawin/react_tic-tac-toe/static/js/453.6838bd37.chunk.js",
-    "index.html": "/gnananawin/react_tic-tac-toe/index.html",
-    "main.7b009a26.css.map": "/gnananawin/react_tic-tac-toe/static/css/main.7b009a26.css.map",
-    "main.430b8c59.js.map": "/gnananawin/react_tic-tac-toe/static/js/main.430b8c59.js.map",
-    "453.6838bd37.chunk.js.map": "/gnananawin/react_tic-tac-toe/static/js/453.6838bd37.chunk.js.map"
+    "main.css": "/react_tic-tac-toe/static/css/main.7b009a26.css",
+    "main.js": "/react_tic-tac-toe/static/js/main.5e012bec.js",
+    "static/js/453.6838bd37.chunk.js": "/react_tic-tac-toe/static/js/453.6838bd37.chunk.js",
+    "index.html": "/react_tic-tac-toe/index.html",
+    "main.7b009a26.css.map": "/react_tic-tac-toe/static/css/main.7b009a26.css.map",
+    "main.5e012bec.js.map": "/react_tic-tac-toe/static/js/main.5e012bec.js.map",
+    "453.6838bd37.chunk.js.map": "/react_tic-tac-toe/static/js/453.6838bd37.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b009a26.css",
-    "static/js/main.430b8c59.js"
+    "static/js/main.5e012bec.js"
   ]
 }
