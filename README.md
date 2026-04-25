@@ -72,9 +72,20 @@ tags:
 The system contains a **Predictive Regulator** — a cross-episode meta-agent that monitors the Auditor across 30 rolling episodes, detects fraud types it systematically fails on (**blind spots**), and **automatically biases the Generator** to produce more of exactly those fraud types. No human intervention. No manual curriculum design. The system pressure-tests its own weakest point, every single episode.
 
 <div align="center">
-<a><img width="1440" height="1240" alt="image" src="https://github.com/user-attachments/assets/323f1f39-6db9-4c3a-b8a7-2724a4d905cb" />
-</a>
-
+  <style>
+.sil-wrap{font-family:monospace;padding:28px 24px 20px}
+.sil-box{display:flex;flex-direction:column;align-items:center;justify-content:center;
+  background:#E6F1FB;border:1px solid #378ADD;border-radius:8px;
+  padding:10px 12px;text-align:center;min-height:60px}
+.sil-box-title{font-size:12px;font-weight:600;color:#0C447C;margin:0}
+.sil-box-sub{font-size:10px;color:#185FA5;margin:3px 0 0;opacity:.85}
+.sil-arrow-line-h{width:100%;height:1.5px;background:#378ADD;position:relative}
+.sil-arrow-line-h::after{content:"";position:absolute;right:-1px;top:-4px;
+  border:5px solid transparent;border-left:7px solid #378ADD}
+.sil-arrow-line-v{width:1.5px;background:#378ADD;position:relative;margin:0 auto}
+.sil-arrow-line-v::after{content:"";position:absolute;bottom:-1px;left:-4px;
+  border:5px solid transparent;border-top:7px solid #378ADD}
+</style>
 </div>
 
 ---
