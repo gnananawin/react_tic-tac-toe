@@ -72,7 +72,8 @@ tags:
 The system contains a **Predictive Regulator** — a cross-episode meta-agent that monitors the Auditor across 30 rolling episodes, detects fraud types it systematically fails on (**blind spots**), and **automatically biases the Generator** to produce more of exactly those fraud types. No human intervention. No manual curriculum design. The system pressure-tests its own weakest point, every single episode.
 
 <div align="center">
-<a><img width="702" height="660" alt="image" src="https://github.com/user-attachments/assets/1db7bafd-9446-45de-8b27-83d434e47381" /></a>
+<a><img width="1440" height="1240" alt="image" src="https://github.com/user-attachments/assets/323f1f39-6db9-4c3a-b8a7-2724a4d905cb" />
+</a>
 
 </div>
 
